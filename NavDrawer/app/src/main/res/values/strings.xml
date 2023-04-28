@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nav_Drawer</string>
+    <string name="assessment">Assessment</string>
+    <string name="developer">Developer</string>
+    <string name="library">Library</string>
+    <string name="sign_out">Sign out</string>
+    <string name="about">About</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+</resources>

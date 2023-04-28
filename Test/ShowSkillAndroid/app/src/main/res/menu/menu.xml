@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/view_covid_bt"
+            android:icon="@drawable/ic_coronavirus"
+            android:title="ดูยอดผู้ป่วย Covid 19" />
+    </group>
+    <group >
+        <item
+            android:id="@+id/signout_bt"
+            android:title="Sign out" />
+    </group>
+</menu>
