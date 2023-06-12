@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test_firebase</string>
+    <string name="username">Username</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+</resources>
